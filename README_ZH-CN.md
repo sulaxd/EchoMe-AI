@@ -2,6 +2,18 @@
 
 欢迎来到EchoMe AI —— 一个利用先进AI技术匹配不同语言背景下具有相似性格的人的平台。我们的使命是打破语言障碍，使来自不同语言背景的用户能够在更深层次上发现并连接志同道合的人。
 
+## 语言选项
+
+此README也提供以下语言版本：
+
+- [简体中文](README_ZH-CN.md)
+- [繁體中文](README_ZH-TW.md)
+- [Español](README_ES.md)
+- [Français](README_FR.md)
+- [Deutsch](README_DE.md)
+- [日本語](README_JA.md)
+- [English](README.md)
+
 ## 项目介绍
 
 在当今全球化的世界中，语言差异常常构成了与其他文化背景的人形成深刻且有意义联系的一大障碍。EchoMe AI旨在克服这些障碍，使用尖端的AI翻译和性格匹配算法，使用户能够找到他们的“性格双胞胎”，不管他们讲什么语言。
