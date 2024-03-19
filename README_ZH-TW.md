@@ -7,11 +7,14 @@
 此README也提供以下語言版本：
 
 - [简体中文](README_ZH-CN.md)
+- [繁體中文](README_ZH-TW.md)
 - [Español](README_ES.md)
 - [Français](README_FR.md)
 - [Deutsch](README_DE.md)
 - [日本語](README_JA.md)
+- [한국어](README_KO.md)
 - [English](README.md)
+
 
 ## 項目介紹
 
